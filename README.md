@@ -1,9 +1,14 @@
-This project is mock service.
+# Mock Service Project
 
-Created by using nodeJs and return json response directly.
+This project is a mock service created using **Node.js** that returns JSON responses directly.
 
-Current Feature.
-1. mock json and use directory as url.
-2. down service and specific error message.
+---
 
-TO BE CONTINUED . . . .
+## Current Features
+
+1. Mock JSON responses using directory structure as URL.  
+2. Simulate service downtime and return specific error messages.
+
+---
+
+## TO BE CONTINUED...
